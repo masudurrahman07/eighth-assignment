@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+   "description": "YouTube is the world's largest video platform, home to billions of videos ranging from entertainment to education. Whether you’re learning a new skill, following your favorite creator, or streaming music videos, YouTube provides endless content for every interest. Users can upload, share, and interact with videos while creators build global communities around their passions. With advanced algorithms, it recommends videos based on your watch history, keeping your experience personalized and engaging.",
+    "size": 90,
+    "reviews": 12400000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+   "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms",
+    "description": "Facebook connects people across the globe, enabling users to share moments, photos, and updates with their loved ones. It fosters communities through groups and events and helps businesses engage customers directly. The app's algorithm curates content tailored to each user, making it both a social and informational hub. Despite being one of the oldest social media platforms, Facebook continues to evolve with features like Reels and Marketplace to stay relevant in a changing digital world.",
+    "size": 110,
+    "reviews": 8000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+  "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+   "description": "Spotify revolutionizes how people listen to music and podcasts. With a library of millions of tracks, it provides personalized playlists and daily mixes suited to every mood. The app's simple interface allows users to explore artists, follow friends, and share playlists. Spotify’s algorithm learns user preferences, creating a unique and immersive listening experience that connects music lovers worldwide.",
+    "size": 60,
+    "reviews": 6200000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 4,
+    "image": "https://img.icons8.com/color/480/whatsapp.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms",
+   "description": "WhatsApp is one of the most secure and fast messaging apps globally. It provides end-to-end encrypted chats, voice calls, and video calls without ads. Users can share documents, photos, and live locations easily. With features like community groups, disappearing messages, and WhatsApp Business, it bridges personal and professional communication seamlessly.",
+    "size": 45,
+    "reviews": 7300000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+   "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms",
+   "description": "Instagram is the visual storytelling hub of the modern age. It allows users to share images, short videos, and stories while exploring creative content from around the world. With features like Reels, IGTV, and Shop, Instagram merges entertainment and commerce. Influencers, brands, and users all interact on one dynamic platform that continues to shape online culture and trends.",
+    "size": 95,
+    "reviews": 9000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+   "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 6,
+    "image": "https://img.icons8.com/color/480/twitter--v1.png",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+   "description": "Twitter, now known as X, is the heartbeat of real-time conversations. From breaking news to global debates, users share short posts that spark connection and dialogue. With Spaces, trending hashtags, and the latest updates, X enables open conversations and the exchange of ideas across industries, cultures, and interests.",
+    "size": 80,
+    "reviews": 6400000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+  "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 7,
+    "image": "https://img.icons8.com/color/480/gmail-new.png",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "description": "Gmail is Google's flagship email service, built to keep your digital life organized and secure. With its smart categorization, priority inbox, and advanced search capabilities, it ensures that you never lose track of important messages. Its intuitive design helps users manage work and personal communication with ease, while built-in spam protection and AI-powered suggestions keep the experience fast and clutter-free. Gmail also integrates seamlessly with Google Workspace, allowing for smooth collaboration across Docs, Sheets, and Meet — making it an essential productivity tool for individuals and businesses alike.",
+    "size": 40,
+    "reviews": 3500000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+   "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 8,
+    "image": "https://img.icons8.com/color/480/amazon.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "description": "Amazon Shopping gives you access to the world's largest online marketplace. From electronics to groceries, the app offers seamless browsing, product comparisons, and secure payments. Personalized recommendations and Prime delivery make shopping effortless and enjoyable. Whether buying daily essentials or luxury items, Amazon ensures reliability and customer satisfaction.",
+    "size": 120,
+    "reviews": 8900000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+  "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 9,
+    "image": "https://img.icons8.com/color/480/netflix.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Netflix redefined the entertainment landscape by bringing on-demand streaming to the world. It offers thousands of movies, TV series, documentaries, and original productions across genres and languages. Personalized recommendations powered by intelligent algorithms ensure that every user has a unique viewing journey. Whether you’re watching from your phone, TV, or laptop, Netflix delivers cinematic quality with ease. With constant updates and new global releases every week, it has become the go-to destination for storytelling that entertains, educates, and inspires.",
+    "size": 95,
+    "reviews": 8100000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+  "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 10,
+    "image": "https://img.icons8.com/color/480/tiktok.png",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "description": "TikTok is a creative playground for short-form video content, empowering users to express themselves through dance, humor, trends, and storytelling. Its algorithmic feed curates endless entertainment tailored to each user's interests, keeping engagement high and content fresh. Beyond entertainment, TikTok has evolved into a global platform for education, activism, and cultural exchange. With easy-to-use editing tools, trending music, and interactive effects, it turns everyday moments into viral phenomena that shape modern digital culture.",
+    "size": 85,
+    "reviews": 12000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+  "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 11,
+    "image": "https://img.icons8.com/color/480/linkedin.png",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corporation",
+    "description": "LinkedIn is the world's leading professional networking platform, connecting millions of users to opportunities, ideas, and insights. It serves as both a digital resume and a dynamic space for career development. Users can showcase their achievements, follow industry news, and engage in meaningful discussions. Businesses use LinkedIn to recruit talent and build thought leadership, while professionals rely on it to stay informed and expand their networks. With a balance of professionalism and community, LinkedIn continues to empower careers and global collaboration.",
+    "size": 75,
+    "reviews": 4800000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+   "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 12,
+    "image": "https://img.icons8.com/color/480/apple-music.png",
+    "title": "Apple Music",
+    "companyName": "Apple Inc.",
+    "description": "Apple Music delivers an immersive audio experience, offering over 100 million songs ad-free, available online or offline. Users can explore expertly curated playlists, exclusive artist releases, and live radio broadcasts. With seamless integration across Apple devices, it ensures a consistent and high-quality listening experience wherever you go. Personalized recommendations and spatial audio enhance the connection between artists and listeners, making Apple Music not just a streaming app — but a complete sound ecosystem for true music lovers.",
+    "size": 90,
+    "reviews": 5400000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+   "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 13,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "description": "Pinterest is a visual discovery platform that turns ideas into reality. Whether you’re decorating a home, planning a trip, or looking for a new recipe, Pinterest offers endless inspiration through curated boards and pins. Its smart recommendations and organized layout make it easy to collect, plan, and share creative visions. Brands and creators also use it to connect with audiences through visually rich content that sparks imagination and action. More than a social network, Pinterest is a tool for dreaming, designing, and doing.",
+    "size": 50,
+    "reviews": 4600000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+   "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 14,
+    "image": "https://img.icons8.com/color/480/google-photos.png",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "description": "Google Photos is an intelligent photo storage and management app that keeps your memories safe and accessible across all devices. With automatic backups, facial recognition, and smart search, it allows you to find photos effortlessly. Its AI-driven features — such as suggested edits, automatic albums, and video collages — make organizing and sharing memories simple and fun. Offering seamless integration with Google Drive and other services, it's the perfect solution for anyone who wants to preserve life’s moments with clarity and convenience.",
+    "size": 70,
+    "reviews": 3900000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+   "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 15,
+    "image": "https://img.icons8.com/color/480/zoom.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "description": "Zoom revolutionized communication by making video conferencing simple, reliable, and scalable. It enables users to host virtual meetings, webinars, and collaborations with crystal-clear video and audio. Beyond businesses, it has become an essential tool for education, remote work, and personal connection. With features like breakout rooms, screen sharing, and virtual backgrounds, Zoom ensures that communication feels natural even across distances. Its user-friendly interface and robust security make it the preferred choice for teams and individuals worldwide.",
+    "size": 80,
+    "reviews": 7600000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+  "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  },
+  {
+    "id": 16,
+    "image": "https://img.icons8.com/color/480/google-drive--v2.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "description": "Google Drive is a powerful cloud storage service that lets users store, share, and access files anytime, anywhere. It integrates seamlessly with Google’s productivity tools like Docs, Sheets, and Slides, supporting effortless real-time collaboration. With generous storage, intelligent organization, and advanced sharing permissions, it simplifies personal and professional file management. Whether for work, school, or creative projects, Google Drive keeps everything safe, synchronized, and accessible from any device — empowering productivity in the modern digital age.",
+    "size": 65,
+    "reviews": 4200000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [ 
+{ "name": "5 star", "count": 12000 },
+{ "name": "4 star", "count": 9000 },
+{ "name": "3 star", "count": 6000 },
+{ "name": "2 star", "count": 3000 },
+{ "name": "1 star", "count": 0 }
+]
+  }
+]
